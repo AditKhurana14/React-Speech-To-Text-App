@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React--Speech--To--Text--App/static/css/main.4fe1d8f6.css",
+    "main.js": "/React--Speech--To--Text--App/static/js/main.9db31ede.js",
+    "static/js/787.e7cde4d1.chunk.js": "/React--Speech--To--Text--App/static/js/787.e7cde4d1.chunk.js",
+    "index.html": "/React--Speech--To--Text--App/index.html",
+    "main.4fe1d8f6.css.map": "/React--Speech--To--Text--App/static/css/main.4fe1d8f6.css.map",
+    "main.9db31ede.js.map": "/React--Speech--To--Text--App/static/js/main.9db31ede.js.map",
+    "787.e7cde4d1.chunk.js.map": "/React--Speech--To--Text--App/static/js/787.e7cde4d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fe1d8f6.css",
+    "static/js/main.9db31ede.js"
+  ]
+}
